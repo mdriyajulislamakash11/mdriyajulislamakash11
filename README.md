@@ -65,16 +65,16 @@ With a continuous learning mindset, I explore emerging technologies like AI inte
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/md-abdul-kyum-6ba2ba328/" target="_blank">
+  <a href="https://www.linkedin.com/in/mdriyajulislam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=kyummdabdul@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=akashahmed.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://x.com/kyummdabdul" target="_blank">
+  <a href="https://x.com/md_riyajul33161" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://web.facebook.com/mdabdulkyum5325/" target="_blank">
+  <a href="https://www.facebook.com/md.riyajul.islam.akash.2024" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="35" alt="facebook logo"  />
   </a>
 </div>
